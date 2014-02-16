@@ -21,7 +21,7 @@ module.exports = {
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftware-pe.github.io/conf-boilerplate/",
+      url: "http://testedesoftwarepe.github.io/conf-boilerplate/",
       googleanalytics: "UA-33656081-1"
     },
 
