@@ -39,8 +39,11 @@
       <div class="wrapper">
         <%- @content %>
         <!-- FOOTER -->
+		<!-- 
         <footer class="footer">
+          <p>Made with ♥ by <a href="http://confboilerplate.com">Conf Boilerplate</a> :)</p>
         </footer>
+			-->
         <!-- / FOOTER -->
       </div>
     </div>
