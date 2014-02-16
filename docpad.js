@@ -21,7 +21,7 @@ module.exports = {
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftwarepe.github.io/conf-boilerplate/",
+      url: "http://braziljs.github.io/conf-boilerplate/",
       googleanalytics: "UA-33656081-1"
     },
 
@@ -31,6 +31,7 @@ module.exports = {
       'speakers',
       'schedule',
       'partners'
+      // 'contact'
     ],
 
     labels: {
@@ -38,14 +39,15 @@ module.exports = {
       location: "Localização",
       speakers: "Palestrantes",
       schedule: "Agenda",
-      partners: "Parceiros",
+      //sponsors: "Sponsors",
+      partners: "Parceiros"
+      //contact: "Contact"
     },
 
     schedule: [
       {
         name: "Check-in",
         time: "19h00",
-        description: "Hora de comer alguma coisa, conhecer gente e pegar os melhores lugares."
       },
       {
         name: "Taíse Dias",
