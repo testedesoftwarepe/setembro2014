@@ -21,7 +21,7 @@ module.exports = {
 
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://testedesoftwarepe.github.io/fevereiro2014/",
       googleanalytics: "UA-33656081-1"
     },
 
@@ -67,7 +67,7 @@ module.exports = {
       {
         name: "Leandro dos Anjos",
         photo: "themes/yellow-swan/img/leandro.jpg",
-        bio: "Leandro possui formação em Análise e Desenvolvimento de Software e trabalha com testes de software desde 2005. Atualmente, trabalha como Analista de Testes na Pitangi",
+        bio: "Leandro possui formação em Análise e Desenvolvimento de Software e trabalha com testes de software desde 2005. Atualmente, trabalha como Analista de Testes na Pitangi.",
         company: "Pitang Consultoria e Sistemas",
         presentation: {
           title: "Testes Funcionais com Selenium e Java",
