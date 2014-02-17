@@ -8,7 +8,7 @@ module.exports = {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",
       date: "19 de fevereiro de 2014",
-      venue: "ThoughtWorks",
+      venue: "na ThoughtWorks",
       address: "Av. Governador Agamenon Magalhães, 4779",
       city: "Recife",
       state: "PE"
