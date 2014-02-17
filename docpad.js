@@ -67,7 +67,7 @@ module.exports = {
       {
         name: "Leandro dos Anjos",
         photo: "themes/yellow-swan/img/leandro.jpg",
-        bio: "Leandro possui formação em Análise e Desenvolvimento de Software e trabalha com testes de software desde 2005. Atualmente, trabalha como Analista de Testes na Pitangi.",
+        bio: "Leandro possui formação em Análise e Desenvolvimento de Software e trabalha com testes de software desde 2005. Atualmente, trabalha como Analista de Testes na Pitang.",
         company: "Pitang Consultoria e Sistemas",
         link: {
           text: "leoanjossantos@gmail.com"
