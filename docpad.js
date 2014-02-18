@@ -15,7 +15,7 @@ module.exports = {
     },
 
     callToAction: {
-        text: "Inscreva-se",
+        text: "Inscrições encerradas!",
         link: "https://docs.google.com/forms/d/130ODrcxuQJFCrW8dkcZETJ1m1gYgG9RosekAeSUrhQ4/viewform"
     },
 
