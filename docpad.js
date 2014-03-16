@@ -9,8 +9,8 @@ module.exports = {
       description: "Encontro do grupo Teste de Software-PE",     
       topics: "aprendizagem baseada em problemas(PBL) e automação de testes de software", 
       date: "19 de março de 2014",
-      venue: "Local a definir",
-      address: "Av. Governador Agamenon Magalhães, 4779",
+      venue: "no CST UNINASSAU",
+      address: "Rua João Fernandes Vieira, 110 - Boa Vista",
       city: "Recife",
       state: "PE"
     },
@@ -48,7 +48,7 @@ module.exports = {
    schedule: [
       {
         name: "Check-in",
-        time: "19h30"
+        time: "19h15"
       },
       {
         name: "Ana Claudia Monte",
@@ -61,7 +61,7 @@ module.exports = {
         presentation: {
           title: "Gestão de Processos Aplicada ao Ensino de Teste de Software.",
           description: "A busca por profissionais qualificados que possuem considerável experiência prática vem crescendo dia-a-dia. Mas, no processo de aprendizagem do ensino tradicional, o aluno é em grande parte um receptor de informações, incluindo conceitos e fundamentos teóricos, onde raramente é dada a prática na resolução de problemas. Portanto, com vista a minimizar este problema, o Ensino de Aprendizagem Baseada em Problemas (PBL) é sugerida.",
-          time: "19h45"
+          time: "19h30"
         }
       },
       {
@@ -76,7 +76,7 @@ module.exports = {
         presentation: {
           title: "Testes Funcionais com Selenium e Java",
           description: "Automação de testes funcionais utilizando o Selenium como framework de automação e Java como liguagem de programação.",
-          time: "20:20"
+          time: "20:10"
         }
       }      
     ],
@@ -86,6 +86,16 @@ module.exports = {
         name: "ThoughWorks Recife",
         logo: "themes/yellow-swan/img/tw-logo.png",
         url: "http://www.thoughtworks.com/pt/"
+      },
+      {
+        name: "UNINASSAU",
+        logo:"themes/yellow-swan/img/uninassau-logo.jpeg",
+        url: "http://www.mauriciodenassau.edu.br/"
+      },
+      {
+        name: "UNINASSAU",
+        logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
+        url: "http://www.qualiti.com.br/"
       }
     ],
 
