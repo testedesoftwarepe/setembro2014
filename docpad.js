@@ -6,28 +6,29 @@ module.exports = {
 
     conf: {
       name: "QA Night",
-      description: "Encontro do grupo Teste de Software-PE",
-      date: "19 de fevereiro de 2014",
-      venue: "na ThoughtWorks",
+      description: "Encontro do grupo Teste de Software-PE",     
+      topics: "aprendizagem baseada em problemas(PBL) e automação de testes de software", 
+      date: "19 de março de 2014",
+      venue: "Local a definir",
       address: "Av. Governador Agamenon Magalhães, 4779",
       city: "Recife",
       state: "PE"
     },
 
     callToAction: {
-        text: "Inscrições encerradas!"
+        text: "Inscrições em breve!"
         //link: "https://docs.google.com/forms/d/130ODrcxuQJFCrW8dkcZETJ1m1gYgG9RosekAeSUrhQ4/viewform"
     },
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftwarepe.github.io/fevereiro2014/",
+      url: "http://testedesoftwarepe.github.io/marco2014/",
       googleanalytics: "UA-33656081-1"
     },
 
     sections: [
       'about',
-      'location',
+      //'location',
       'speakers',
       'schedule',
       'partners'
@@ -44,54 +45,40 @@ module.exports = {
       //contact: "Contact"
     },
 
-    schedule: [
+   schedule: [
       {
         name: "Check-in",
-        time: "19h00"
+        time: "19h30"
       },
       {
-        name: "Taíse Dias",
-        photo: "themes/yellow-swan/img/taise.png",
-        bio: "Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente, é consultora em Qualidade de Software na ThoughtWorks.",
-        company: "ThoughtWorks",
+        name: "Ana Claudia Monte",
+        photo: "themes/yellow-swan/img/ana_claudia.jpg",
+        bio: "Ana Claudia possui mestrado em Ciência da Computação pela UFPE na área de Gestão de Processos, graduada em Sistema de Informação pela Faculdade Pernambucana-FAPE. Atua na área de teste desde 2007 com planejamento, projeto, execução e controle de falhas de testes. Professora universitária da Faculdade Pernambucana-FAPE.Atualmente trabalha como Analista de Teste da empresa AGFA HealthCare desde 2010.",
+        company: "AGFA",
         link: {
-          href: "http://twitter.com/taisedias",
-          text: "@taisedias"
+          text: "anaclaudia.monte@gmail.com"
         },
         presentation: {
-          title: "Cucumber",
-          description: "Introdução sobre Cucumber, uma ferramenta baseada em Behavior Driven Development (BDD).",
-          time: "19h15"
-        }
-      },
-      {
-        name: "Leandro dos Anjos",
-        photo: "themes/yellow-swan/img/leandro.jpg",
-        bio: "Leandro possui formação em Análise e Desenvolvimento de Software e trabalha com testes de software desde 2005. Atualmente, trabalha como Analista de Testes na Pitang desde 2007.",
-        company: "Pitang Consultoria e Sistemas",
-        link: {
-          text: "leoanjossantos@gmail.com"
-        },
-        presentation: {
-          title: "Testes Funcionais com Selenium e Java",
-          description: "Automação de testes funcionais utilizando o Selenium como framework de automação e Java como liguagem de programação.",
+          title: "Gestão de Processos Aplicada ao Ensino de Teste de Software.",
+          description: "A busca por profissionais qualificados que possuem considerável experiência prática vem crescendo dia-a-dia. Mas, no processo de aprendizagem do ensino tradicional, o aluno é em grande parte um receptor de informações, incluindo conceitos e fundamentos teóricos, onde raramente é dada a prática na resolução de problemas. Portanto, com vista a minimizar este problema, o Ensino de Aprendizagem Baseada em Problemas (PBL) é sugerida.",
           time: "19h45"
         }
       },
       {
-        name: "Rafael Lima",
-        photo: "themes/yellow-swan/img/rafael.JPG",
-        bio: "Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
-        company: "ThoughtWorks",
+        name: "Christiano Gonçalves Guerra",
+        photo: "themes/yellow-swan/img/christiano.jpeg",
+        bio: "Formado em Ciência da Computação pelo Universidade Católica de Pernambuco em 2005, trabalhando com desenvolvimento de software em C# e Python de 2006 até 2009 quando passou para a área de teste com automação. Atualmente é engenheiro de teste do C.E.S.A.R.",
+        company: "C.E.S.A.R",
         link: {
-          text: "rafalima07@gmail.com"
+          href: "https://twitter.com/chrisgguerra",
+          text: "@chrisgguerra"
         },
         presentation: {
-          title: "Testes Funcionais com Watir e Ruby",
-          description: "Automação de testes funcionais utilizando o Watir como framework de automação e Ruby como liguagem de programação.",
-          time: "20h30"
+          title: "Testes Funcionais com Selenium e Java",
+          description: "Automação de testes funcionais utilizando o Selenium como framework de automação e Java como liguagem de programação.",
+          time: "20:20"
         }
-      }
+      }      
     ],
 
     partners: [
