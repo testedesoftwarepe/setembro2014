@@ -7,7 +7,7 @@ module.exports = {
     conf: {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",     
-      topics: "aprendizagem baseada em problemas(PBL) e automação de testes de software", 
+      topics: "aprendizagem baseada em problemas (PBL) e automação de testes de software", 
       date: "19 de março de 2014",
       venue: "no CST UNINASSAU",
       address: "Rua João Fernandes Vieira, 110 - Boa Vista",
@@ -16,8 +16,8 @@ module.exports = {
     },
 
     callToAction: {
-        text: "Inscrições em breve!"
-        //link: "https://docs.google.com/forms/d/130ODrcxuQJFCrW8dkcZETJ1m1gYgG9RosekAeSUrhQ4/viewform"
+        text: "Inscrições abertas",
+        link: "https://docs.google.com/forms/d/11sdOiDkAPzlXIVEuLBJktxtSbyTNUEFp9WTgiwvlNpw/viewform"
     },
 
     site: {
@@ -28,7 +28,7 @@ module.exports = {
 
     sections: [
       'about',
-      //'location',
+      'location',
       'speakers',
       'schedule',
       'partners'
@@ -53,14 +53,14 @@ module.exports = {
       {
         name: "Ana Claudia Monte",
         photo: "themes/yellow-swan/img/ana_claudia.jpg",
-        bio: "Ana Claudia possui mestrado em Ciência da Computação pela UFPE na área de Gestão de Processos, graduada em Sistema de Informação pela Faculdade Pernambucana-FAPE. Atua na área de teste desde 2007 com planejamento, projeto, execução e controle de falhas de testes. Professora universitária da Faculdade Pernambucana-FAPE.Atualmente trabalha como Analista de Teste da empresa AGFA HealthCare desde 2010.",
+        bio: "Ana Claudia possui mestrado em Ciência da Computação pela UFPE na área de Gestão de Processos, graduada em Sistema de Informação pela Faculdade Pernambucana-FAPE. Atua na área de teste desde 2007 com planejamento, projeto, execução e controle de falhas de testes. Professora universitária da Faculdade Pernambucana-FAPE. Atualmente trabalha como Analista de Teste da empresa AGFA HealthCare desde 2010.",
         company: "AGFA",
         link: {
           text: "anaclaudia.monte@gmail.com"
         },
         presentation: {
           title: "Gestão de Processos Aplicada ao Ensino de Teste de Software.",
-          description: "A busca por profissionais qualificados que possuem considerável experiência prática vem crescendo dia-a-dia. Mas, no processo de aprendizagem do ensino tradicional, o aluno é em grande parte um receptor de informações, incluindo conceitos e fundamentos teóricos, onde raramente é dada a prática na resolução de problemas. Portanto, com vista a minimizar este problema, o Ensino de Aprendizagem Baseada em Problemas (PBL) é sugerida.",
+          description: "A busca por profissionais qualificados que possuem considerável experiência prática vem crescendo dia-a-dia. Mas, no processo de aprendizagem do ensino tradicional, o aluno é em grande parte um receptor de informações, incluindo conceitos e fundamentos teóricos, onde raramente é dada a prática na resolução de problemas. Portanto, com vista a minimizar este problema, o Ensino de Aprendizagem Baseada em Problemas (PBL) é sugerido.",
           time: "19h30"
         }
       },
@@ -93,7 +93,7 @@ module.exports = {
         url: "http://www.mauriciodenassau.edu.br/"
       },
       {
-        name: "UNINASSAU",
+        name: "Qualiti",
         logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
         url: "http://www.qualiti.com.br/"
       }
