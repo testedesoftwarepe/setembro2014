@@ -8,21 +8,21 @@ module.exports = {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",     
       topics: "aprendizagem baseada em problemas (PBL) e automação de testes de software", 
-      date: "19 de março de 2014",
-      venue: "no CST UNINASSAU (sala 208)",
-      address: "Rua João Fernandes Vieira, 110 - Boa Vista",
+      date: "16 de abril de 2014",
+      venue: "na Qualiti",
+      address: "Av. Marquês de Olinda, 126 - 4º andar - Bairro do Recife",
       city: "Recife",
       state: "PE"
     },
 
     callToAction: {
-        text: "Inscrições abertas",
-        link: "https://docs.google.com/forms/d/11sdOiDkAPzlXIVEuLBJktxtSbyTNUEFp9WTgiwvlNpw/viewform"
+        text: "Aguarde!",
+        link: "https://docs.google.com/forms/d/1fI3mGSFs0phtxbq8ePX7yp0nsPelHjncuIqGEpU0-rY/viewform"
     },
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftwarepe.github.io/marco2014/",
+      url: "http://testedesoftwarepe.github.io/abril2014/",
       googleanalytics: "UA-33656081-1"
     },
 
@@ -41,7 +41,7 @@ module.exports = {
       speakers: "Palestrantes",
       schedule: "Agenda",
       //sponsors: "Sponsors",
-      partners: "Parceiros"
+      partners: "Parceiros",
       //contact: "Contact"
     },
 
@@ -49,7 +49,8 @@ module.exports = {
       {
         name: "Check-in",
         time: "19h15"
-      },      
+      }, 
+
       {
         name: "Christiano Gonçalves Guerra",
         photo: "themes/yellow-swan/img/christiano.jpeg",
@@ -65,6 +66,12 @@ module.exports = {
           time: "19:30"
         }
       },
+
+      {
+        name: "Coffee Break",
+        time: "20h"
+      },
+
       {
         name: "Ana Claudia Monte",
         photo: "themes/yellow-swan/img/ana_claudia.jpg",

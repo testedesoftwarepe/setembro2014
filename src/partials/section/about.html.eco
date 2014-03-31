@@ -1,5 +1,5 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências. O encontro, sobre <%= @conf.topics %>, acontecerá em <%= @conf.date %>, <%= @conf.venue %>.</p>
+<p itemprop="description">O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências. O encontro, sobre <%= @conf.topics %>, acontecerá em <%= @conf.date %>, <%= @conf.venue %>, <%= @conf.address %>.</p>
 
 
 
