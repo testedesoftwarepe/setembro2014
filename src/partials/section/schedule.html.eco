@@ -46,7 +46,7 @@
         }(document, 'script', 'facebook-jssdk'));
       </script>
 
-      <div class="fb-like" style = "margin-top: 2%; margin-bottom: 1%;" data-href="http://testedesoftwarepe.github.io/abril2014/" data-layout="standard" data-show-faces="true" data-share="true"></div>
+      <div class="fb-like" data-href="http://testedesoftwarepe.github.io/abril2014/" data-layout="standard" data-show-faces="true" data-share="true"></div>
       <!-- Facebook -->
 
       <!-- Twitter -->
