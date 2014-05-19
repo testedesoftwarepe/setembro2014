@@ -6,23 +6,23 @@ module.exports = {
 
     conf: {
       name: "QA Night",
-      description: "Encontro do grupo Teste de Software-PE",     
-      topics: "Specflow + Coypu = BDD em .NET e Testers Técnicos", 
-      date: "16 de abril de 2014",
-      venue: "na Qualiti",
-      address: "Av. Marquês de Olinda, 126 - 4º andar - Bairro do Recife",
+      description: "Encontro do grupo Teste de Software-PE",
+      topics: "Heartbleed e Insegurança da Informação",
+      date: "21 de maio de 2014",
+      venue: "ThoughtWorks",
+      address: "Avenida Governador Agamenon Magalhães, 4779 - Ilha do Leite",
       city: "Recife",
       state: "PE"
     },
 
     callToAction: {
-        text: "Inscrições encerradas",
-        link: "https://docs.google.com/forms/d/1fI3mGSFs0phtxbq8ePX7yp0nsPelHjncuIqGEpU0-rY/viewform"
+        text: "Inscrições abertas",
+        link: "https://docs.google.com/forms/d/1IikWrWm7sJq7RfwtirrYQJymVyAT4E9y0MIzpdLbtCI/viewform"
     },
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftwarepe.github.io/abril2014/",
+      url: "http://testedesoftwarepe.github.io/maio2014/",
       googleanalytics: "UA-33656081-1"
     },
 
@@ -49,48 +49,50 @@ module.exports = {
       {
         name: "Check-in",
         time: "19h15"
-      }, 
+      },
 
       {
-        name: "Diego Asfora",
-        photo: "themes/yellow-swan/img/asfora.jpg",
-        bio: "Trabalha a mais de 7 anos com Agile em diversos projetos e em várias empresas tendo inclusive durante esse período feito mestrado na área de priorização de Requisitos Ágeis. Trabalha há 10 anos com testes de software. Palestrante no Scrum Gathering Brazil em São Paulo 2009.",
-        company: "ThoughtWorks",
+        name: "Guilherme Motta",
+        photo: "themes/yellow-swan/img/motta.jpg",
+        bio: "Guilherme Motta foi pentester, atualmente aposentado no ramo da segurança da informação, eterno aprendiz de segurança da informação. Hoje trabalha na Klarna AB como Agile Coach.",
+        company: "Klarna AB",
         link: {
-          href: "https://twitter.com/diegoasfora",
-          text: "@diegoasfora"
+          href: "https://twitter.com/gfcmotta",
+          text: "@gfcmotta"
         },
         presentation: {
-          title: "Testers Técnicos",
-          description: "Overview sobre o papel de um QA. Incluindo algumas práticas, técnicas e ferramentas para contribuir na formação de um QA Ágil.",
-          time: "19:30"
+          title: "Heartbleed e Insegurança da Informação pt. 1",
+          description: "Nesta palestra, vamos falar sobre o Heartbleed e demonstrar falhas de segurança em aplicações web",
+          time: "19h30"
         }
       },
 
       {
         name: "Intervalo",
-        time: "20:10h"
+        time: "20h10"
       },
 
       {
-        name: "Henrique Borges",
-        photo: "themes/yellow-swan/img/hbas.jpg",
-        bio: "Henrique é mestre em Ciência da Computação e MBA em Gestão de Pessoas. Foi sócio fundador da FAST Soluções, onde também trabalhou como desenvolvedor, tester, front-end e gerente de projetos. Atualmente, é Eng. de Sistemas no CESAR.",
-        company: "CESAR",
+        name: "Guilherme Motta",
+        photo: "themes/yellow-swan/img/motta.jpg",
+        bio: "Guilherme Motta foi pentester, atualmente aposentado no ramo da segurança da informação, eterno aprendiz de segurança da informação. Hoje trabalha na Klarna AB como Agile Coach.",
+        company: "Klarna AB",
         link: {
-          href: "https://twitter.com/henriqueHbas",
-          text: "@henriqueHbas"
+          href: "https://twitter.com/gfcmotta",
+          text: "@gfcmotta"
         },
         presentation: {
-          title: "Specflow + Coypu = BDD em .NET",
-          description: "Uma apresentação no estilo \"live coding\", utilizando Specflow, Gherkin, Coypu, Selenium e NUnit em um problema simples.",
-          time: "20h20"
+          title: "Heartbleed e Insegurança da Informação pt. 2",
+          description: "Nesta palestra, vamos falar sobre o Heartbleed e demonstrar falhas de segurança em aplicações web",
+          time: "19h30"
         }
       },
+
       {
         name: "Encerramento",
-        time: "21:10h"
-      }    
+        time: "21h10"
+      }
+
     ],
 
     partners: [
@@ -104,11 +106,11 @@ module.exports = {
         logo:"themes/yellow-swan/img/uninassau-logo.jpeg",
         url: "http://www.mauriciodenassau.edu.br/"
       },*/
-      {
-        name: "Qualiti",
-        logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
-        url: "http://www.qualiti.com.br/"
-      }
+      // {
+      //   name: "Qualiti",
+      //   logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
+      //   url: "http://www.qualiti.com.br/"
+      // }
     ],
 
     getTheme: function() {

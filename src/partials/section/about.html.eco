@@ -1,6 +1,8 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências. O encontro, sobre <%= @conf.topics %>, acontecerá em <%= @conf.date %>, <%= @conf.venue %>, <%= @conf.address %>.</p>
+<p itemprop="description">
 
+<p>O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências. O encontro, sobre <%= @conf.topics %>, acontecerá no dia <%= @conf.date %>, na <%= @conf.venue %>, <%= @conf.address %>.<p>
 
+<p>A edição desse mês será um pouco diferente das anteriores, pois o palestrante não estará fisicamente presente. Outra novidade será a possibilidade de conferir o evento remotamente, pois disponibilizaremos um link para streaming. Aguardem!</p>
 
-
+</p>
