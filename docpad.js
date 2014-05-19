@@ -84,7 +84,7 @@ module.exports = {
         presentation: {
           title: "Heartbleed e Insegurança da Informação pt. 2",
           description: "Nesta palestra, vamos falar sobre o Heartbleed e demonstrar falhas de segurança em aplicações web",
-          time: "19h30"
+          time: "20h20"
         }
       },
 
@@ -106,11 +106,11 @@ module.exports = {
         logo:"themes/yellow-swan/img/uninassau-logo.jpeg",
         url: "http://www.mauriciodenassau.edu.br/"
       },*/
-      // {
-      //   name: "Qualiti",
-      //   logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
-      //   url: "http://www.qualiti.com.br/"
-      // }
+      {
+        name: "Qualiti",
+        logo:"themes/yellow-swan/img/qualiti-logo.jpeg",
+        url: "http://www.qualiti.com.br/"
+      }
     ],
 
     getTheme: function() {
