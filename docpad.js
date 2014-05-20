@@ -9,8 +9,8 @@ module.exports = {
       description: "Encontro do grupo Teste de Software-PE",
       topics: "Heartbleed e Insegurança da Informação",
       date: "21 de maio de 2014",
-      venue: "ThoughtWorks",
-      address: "Avenida Governador Agamenon Magalhães, 4779 - Ilha do Leite",
+      venue: "Hangout on Air",
+      address: "",
       city: "Recife",
       state: "PE"
     },
@@ -28,7 +28,7 @@ module.exports = {
 
     sections: [
       'about',
-      'location',
+      // 'location',
       'speakers',
       'schedule',
       'partners'
@@ -48,7 +48,7 @@ module.exports = {
    schedule: [
       {
         name: "Check-in",
-        time: "19h15"
+        time: "19h00"
       },
 
       {
@@ -61,36 +61,15 @@ module.exports = {
           text: "@gfcmotta"
         },
         presentation: {
-          title: "Heartbleed e Insegurança da Informação pt. 1",
+          title: "Heartbleed e Insegurança da Informação",
           description: "Nesta palestra, vamos falar sobre o Heartbleed e demonstrar falhas de segurança em aplicações web",
-          time: "19h30"
-        }
-      },
-
-      {
-        name: "Intervalo",
-        time: "20h10"
-      },
-
-      {
-        name: "Guilherme Motta",
-        photo: "themes/yellow-swan/img/motta.jpg",
-        bio: "Guilherme Motta foi pentester, atualmente aposentado no ramo da segurança da informação, eterno aprendiz de segurança da informação. Hoje trabalha na Klarna AB como Agile Coach.",
-        company: "Klarna AB",
-        link: {
-          href: "https://twitter.com/gfcmotta",
-          text: "@gfcmotta"
-        },
-        presentation: {
-          title: "Heartbleed e Insegurança da Informação pt. 2",
-          description: "Nesta palestra, vamos falar sobre o Heartbleed e demonstrar falhas de segurança em aplicações web",
-          time: "20h20"
+          time: "19h15"
         }
       },
 
       {
         name: "Encerramento",
-        time: "21h10"
+        time: "21h00"
       }
 
     ],
