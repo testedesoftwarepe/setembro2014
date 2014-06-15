@@ -7,22 +7,22 @@ module.exports = {
     conf: {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",
-      topics: "Heartbleed e Insegurança da Informação",
-      date: "21 de maio de 2014",
-      venue: "Hangout on Air",
-      address: "",
+      topics: "Cucumber",
+      date: "16 de Junho de 2014",
+      venue: "Thoughtworks e Hangout on Air",
+      address: "Av. Governador Agamenon Magalhães, 4779. Recife, PE ",
       city: "Recife",
       state: "PE"
     },
 
     callToAction: {
         text: "Inscrições abertas",
-        link: "https://docs.google.com/forms/d/1IikWrWm7sJq7RfwtirrYQJymVyAT4E9y0MIzpdLbtCI/viewform"
+        link: ""
     },
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftwarepe.github.io/maio2014/",
+      url: "http://testedesoftwarepe.github.io/junho2014/",
       googleanalytics: "UA-33656081-1"
     },
 
@@ -48,17 +48,17 @@ module.exports = {
    schedule: [
       {
         name: "Check-in",
-        time: "19h00"
+        time: "19h15"
       },
 
       {
-        name: "Guilherme Motta",
-        photo: "themes/yellow-swan/img/motta.jpg",
-        bio: "Guilherme Motta foi pentester, atualmente aposentado no ramo da segurança da informação, eterno aprendiz de segurança da informação. Hoje trabalha na Klarna AB como Agile Coach.",
-        company: "Klarna AB",
+        name: "Rafael Lima e Taise Silva",
+        photo: "themes/yellow-swan/img/Rafael.jpg", "themes/yellow-swan/img/taise.png"
+        bio: "Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente, é consultora em Qualidade de Software na ThoughtWorks.",
+        company: "ThoughtWorks",
         link: {
-          href: "https://twitter.com/gfcmotta",
-          text: "@gfcmotta"
+          href: "http://twitter.com/taisedias",
+          text: "rafalima07@gmail.com"
         },
         presentation: {
           title: "Heartbleed e Insegurança da Informação",
