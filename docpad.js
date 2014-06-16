@@ -60,7 +60,12 @@ module.exports = {
           href: "http://twitter.com/taisedias",
           text: "@taisedias"
         },
-        },
+        presentation: {
+          title: "Automando com Java e Selenium VS Ruby e Watir",
+          description: "Nesta palestra, vamos falar sobre as diferenças e vantagens Java e Selenium VS Ruby e Watir",
+          time: "19h15"
+        }        
+     },
      {
         name: "Rafael Lima",
         photo: "themes/yellow-swan/img/Rafael.jpg", 
