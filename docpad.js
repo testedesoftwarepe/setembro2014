@@ -67,11 +67,11 @@ module.exports = {
           description: "Nesta palestra, vamos falar sobre as diferenças e vantagens Java e Selenium VS Ruby e Watir",
           time: "19h15"
         },
-   {
+       
+        {
         name: " ",
         time: " "
       },
-
      {
         name: "Rafael Lima",
         photo: "themes/yellow-swan/img/Rafael.jpg", 
@@ -86,8 +86,7 @@ module.exports = {
           title: " ",
           description: " ",
           time: " "
-        }
-      },
+        },
       {
         name: "Encerramento",
         time: "21h00"
