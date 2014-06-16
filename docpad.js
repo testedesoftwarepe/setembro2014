@@ -8,7 +8,7 @@ module.exports = {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",
       topics: "Automando com Java e Selenium VS Ruby e Watir",
-      date: "16 de Junho de 2014",
+      date: "18 de Junho de 2014",
       venue: "Thoughtworks e Hangout on Air",
       address: "Avenida Governador Agamenon Magalhães, 4779 - Ilha do Leite",
       city: "Recife",
