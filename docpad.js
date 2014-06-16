@@ -69,7 +69,7 @@ module.exports = {
      {
         name: "Rafael Lima",
         photo: "themes/yellow-swan/img/rafael.JPG", 
-        bio: " e Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
+        bio: "Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
         company: "ThoughtWorks",
         link: {
           href: "rafalima07@gmail.com",
