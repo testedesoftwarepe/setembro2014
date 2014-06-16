@@ -54,7 +54,7 @@ module.exports = {
       {
         name: "Taise Silva",
         photo: "themes/yellow-swan/img/taise.png",
-        bio: " Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente, é consultora em Qualidade de Software na ThoughtWorks.",
+        bio: " Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente é consultora em Qualidade de Software na ThoughtWorks.",
         company: "ThoughtWorks",
         link: {
           href: "http://twitter.com/taisedias",
