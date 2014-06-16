@@ -76,7 +76,7 @@ module.exports = {
           description: " ",
           time: " "
         },
-        } 
+        }, 
         presentation: {
           title: "Automando com Java e Selenium VS Ruby e Watir",
           description: "Nesta palestra, vamos falar sobre as diferenças e vantagens Java e Selenium VS Ruby e Watir",
