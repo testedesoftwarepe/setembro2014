@@ -10,7 +10,7 @@ module.exports = {
       topics: "Automando com Java e Selenium VS Ruby e Watir",
       date: "16 de Junho de 2014",
       venue: "Thoughtworks e Hangout on Air",
-      address: "Av. Governador Agamenon Magalhães, 4779. Recife, PE",
+      address: "Avenida Governador Agamenon Magalhães, 4779 - Ilha do Leite",
       city: "Recife",
       state: "PE"
     },
@@ -28,7 +28,7 @@ module.exports = {
 
     sections: [
       'about',
-      // 'location',
+     'location',
       'speakers',
       'schedule',
       'partners'
@@ -52,14 +52,24 @@ module.exports = {
       },
 
       {
-        name: "Rafael Lima e <br> Taise Silva",
-        photo: "themes/yellow-swan/img/Rafael.jpg", 
-        bio: " Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente, é consultora em Qualidade de Software na ThoughtWorks. e Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
+        name: "Taise Silva",
+        photo: "themes/yellow-swan/img/taise.jpg", 
+        bio: " Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente, é consultora em Qualidade de Software na ThoughtWorks.",
         company: "ThoughtWorks",
         link: {
           href: "http://twitter.com/taisedias",
+          text: "@taisedias"
+        },
+        {
+        name: "Rafael Lima",
+        photo: "themes/yellow-swan/img/Rafael.jpg", 
+        bio: " e Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
+        company: "ThoughtWorks",
+        link: {
+          href: "rafalima07@gmail.com",
           text: "rafalima07@gmail.com"
         },
+        
         presentation: {
           title: "Automando com Java e Selenium VS Ruby e Watir",
           description: "Nesta palestra, vamos falar sobre as diferenças e vantagens Java e Selenium VS Ruby e Watir",
