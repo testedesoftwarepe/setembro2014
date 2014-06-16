@@ -60,8 +60,7 @@ module.exports = {
           href: "http://twitter.com/taisedias",
           text: "@taisedias"
         },
-        }
-       
+        },
      {
         name: "Rafael Lima",
         photo: "themes/yellow-swan/img/Rafael.jpg", 
