@@ -53,7 +53,7 @@ module.exports = {
 
       {
         name: "Taise Silva",
-        photo: "themes/yellow-swan/img/taise.jpg", 
+        photo: "themes/yellow-swan/img/taise.png",
         bio: " Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente, é consultora em Qualidade de Software na ThoughtWorks.",
         company: "ThoughtWorks",
         link: {
@@ -61,12 +61,21 @@ module.exports = {
           text: "@taisedias"
         },
         
+      {
+        name: "Rafael Lima",
+        photo: "themes/yellow-swan/img/Rafael.jpg", 
+        bio: " e Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
+        company: "ThoughtWorks",
+        link: {
+          href: "rafalima07@gmail.com",
+          text: "rafalima07@gmail.com"
+        },
+        
         presentation: {
           title: "Automando com Java e Selenium VS Ruby e Watir",
           description: "Nesta palestra, vamos falar sobre as diferenças e vantagens Java e Selenium VS Ruby e Watir",
           time: "19h15"
-        }
-      },
+        },
 
       {
         name: "Encerramento",
