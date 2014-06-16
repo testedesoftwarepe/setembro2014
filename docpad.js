@@ -48,7 +48,7 @@ module.exports = {
    schedule: [
       {
         name: "Check-in",
-        time: "19h15"
+        time: "19h00"
       },
 
       {
