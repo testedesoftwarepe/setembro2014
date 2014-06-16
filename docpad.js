@@ -70,20 +70,13 @@ module.exports = {
           href: "rafalima07@gmail.com",
           text: "rafalima07@gmail.com"
         },
-        
-        presentation: {
-          title: " ",
-          description: " ",
-          time: " "
-        },
-        }, 
         presentation: {
           title: "Automando com Java e Selenium VS Ruby e Watir",
           description: "Nesta palestra, vamos falar sobre as diferenças e vantagens Java e Selenium VS Ruby e Watir",
           time: "19h15"
-        },
-       
-       
+        }
+        }, 
+        
       {
         name: "Encerramento",
         time: "21h00"
