@@ -16,8 +16,8 @@ module.exports = {
     },
 
     callToAction: {
-        text: "Inscrições abertas",
-        link: "https://docs.google.com/forms/d/15wqpNmDOk3tZWGoi3WWJt6rQoPHXnNoQ30apI7E1_hI/viewform"
+        text: "Assista aqui",
+        link: "https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg"
     },
 
     site: {
