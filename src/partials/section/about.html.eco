@@ -1,12 +1,11 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 <p itemprop="description">
 
-<p>
-O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências. A edição desse mês acontecerá na Thoughtworks e transmitido via streaming, através do Hangout on Air.
-<p>
-
-<p>
-Para adicionar o evento no seu Google Calendar, <a href="https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg">clique aqui</a>.
-</p>
-
+O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências.
+<br><br>
+  Os encontros ocorrem todos os meses, uma vez por mês. O local de cada evento depende da disponibilidade dos nossos parceiros, mas nosso objetivo é sempre conquistar novas empresas que compartilhem os mesmos objetivos.
+<br><br>
+  Caso possua interesse em abraçar a causa, seja ajudando a organizar um evento, seja trazendo novos parceiros, seja querendo falar sobre algum assunto ou simplesmente ajudar na divulgação, por favor não exite em entrar em contato.
+<br><br>
+Para adicionar o evento no seu Google Calendar <a href="<%= @callToAction.link %>">clique aqui</a>.
 </p>
