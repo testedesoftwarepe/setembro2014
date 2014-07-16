@@ -8,16 +8,16 @@ module.exports = {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",
       topics: "Automando com Java e Selenium VS Ruby e Watir",
-      date: "18 de Junho de 2014",
-      venue: "Thoughtworks e Hangout on Air",
-      address: "Avenida Governador Agamenon Magalhães, 4779 - Ilha do Leite",
+      date: "30 de Julho de 2014",
+      venue: "Qualiti",
+      address: "Av. Marquês de Olinda, 126 - 4º andar - Bairro do Recife. Recife, PE",
       city: "Recife",
       state: "PE"
     },
 
     callToAction: {
-        text: "Assista aqui",
-        link: "https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg"
+        text: "Inscrições em breve"
+        // link: "https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg"
     },
 
     site: {
@@ -29,10 +29,11 @@ module.exports = {
     sections: [
       'about',
      'location',
-      'speakers',
-      'schedule',
+      // 'speakers',
+      // 'schedule',
+      'events',
       'partners'
-      // 'contact'
+      // 'contact',
     ],
 
     labels: {
@@ -40,8 +41,9 @@ module.exports = {
       location: "Localização",
       speakers: "Palestrantes",
       schedule: "Agenda",
-      //sponsors: "Sponsors",
       partners: "Parceiros",
+      events: "Próximos Eventos"
+      //sponsors: "Sponsors",
       //contact: "Contact"
     },
 
@@ -64,11 +66,11 @@ module.exports = {
           title: "Automando com Java e Selenium VS Ruby e Watir",
           description: "Nesta palestra, vamos falar sobre as diferenças Java e Selenium VS Ruby e Watir",
           time: "19h15"
-        }        
+        }
      },
      {
         name: "Rafael Lima",
-        photo: "themes/yellow-swan/img/rafael.JPG", 
+        photo: "themes/yellow-swan/img/rafael.JPG",
         bio: "Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
         company: "ThoughtWorks",
         link: {
@@ -80,14 +82,18 @@ module.exports = {
           description: "Nesta palestra, vamos falar sobre as diferenças Java e Selenium VS Ruby e Watir",
           time: "19h15"
         }
-        }, 
-        
+        },
+
       {
         name: "Encerramento",
         time: "21h00"
       }
 
     ],
+
+    events: {
+
+    },
 
     partners: [
       {
