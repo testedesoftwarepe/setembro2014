@@ -10,14 +10,14 @@ module.exports = {
       topics: "Automando com Java e Selenium VS Ruby e Watir",
       date: "30 de Julho de 2014",
       venue: "Qualiti",
-      address: "Av. Marquês de Olinda, 126 - 4º andar - Bairro do Recife. Recife, PE",
+      address: "Av. Marquês de Olinda, 126 - 4º andar - Bairro do Recife",
       city: "Recife",
       state: "PE"
     },
 
     callToAction: {
-        text: "Inscrições em breve"
-        // link: "https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg"
+        text: "Inscrições em breve",
+        link: "https://docs.google.com/forms/d/1hsRpul583dnw2qUpXJ35swGIH4EEvQKK9dgcrwxNMS0/viewform"
     },
 
     site: {

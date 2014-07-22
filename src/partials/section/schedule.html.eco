@@ -39,7 +39,6 @@
             <td class="schedule-description"><%= slot.activity.description %></td>
           </tr>
         <% end %>
-
       <% end %>
     </tbody>
   </table>
