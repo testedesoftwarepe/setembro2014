@@ -2,5 +2,5 @@
 <p>
 Esse é um evento da comunidade para a comunidade, ou seja, para que o conhecimento seja passado adiante, é preciso que pessoas da comunidade estejam dispostas a falarem sobre suas experiências e áreas de expertise.
 <br><br>
-Caso tenha interesse em falar sobre algum assunto/tópico, favor preencher esse formulário: <a href="#">Formulário</a>.
+Caso tenha interesse em falar sobre algum assunto/tópico, favor preencher esse <a href="<%= @events.form %>">formulário</a>.
 </p>
