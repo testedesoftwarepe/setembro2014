@@ -67,6 +67,14 @@ module.exports = {
           description: "Nesta palestra, vamos falar sobre princípios, processos e gerenciamento de Teste de Software",
           time: "19h15"
         }
+        /*
+        Activity é alguma dinâmica extra que poderá ocorrer. Como é uma atividade em grupo, não será mostrada nenhuma imagem. Caso queira remover, basta comentar a activity toda.
+        */
+        ,activity: {
+          title: "Discussão sobre testes",
+          description: "Discussão aberta sobre testes. Essa discussão não será feita pelo hangout.",
+          time: "20h00"
+        }
      },
 
       {

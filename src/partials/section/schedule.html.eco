@@ -32,6 +32,14 @@
             <td class="schedule-description">-</td>
           </tr>
         <% end %>
+        <% if slot.activity: %>
+          <tr>
+            <td class="schedule-time"><%= slot.activity.time %></td>
+            <td class="schedule-slot"><%= slot.activity.title %></td>
+            <td class="schedule-description"><%= slot.activity.description %></td>
+          </tr>
+        <% end %>
+
       <% end %>
     </tbody>
   </table>
