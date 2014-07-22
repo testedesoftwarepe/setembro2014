@@ -29,8 +29,8 @@ module.exports = {
     sections: [
       'about',
      'location',
-      // 'speakers',
-      // 'schedule',
+      'speakers',
+      'schedule',
       'events',
       'partners'
       // 'contact',
@@ -54,35 +54,20 @@ module.exports = {
       },
 
       {
-        name: "Taise Silva",
-        photo: "themes/yellow-swan/img/taise.png",
-        bio: " Taíse é formada em Ciência da Computação pela UFPE, e trabalha com criação de software desde 2006, focando em qualidade e automação de testes. Atualmente é consultora em Qualidade de Software na ThoughtWorks.",
-        company: "ThoughtWorks",
+        name: "Kildery Sukar",
+        photo: "themes/yellow-swan/img/kildery.jpg",
+        bio: "Kildery é formado em Ciência da Computação pela UNICAP, e trabalha com teste de software desde 2008, focado em análise de requisitos, planejamento e execução de casos de teste, além de desenvolver e executar testes automáticos. Atualmente é engenheiro de software na Modular Mining Systems.",
+        company: "Modular Mining Systems",
         link: {
-          href: "http://twitter.com/taisedias",
-          text: "@taisedias"
+          href: "http://twitter.com/kilderysc",
+          text: "@kilderysc"
         },
         presentation: {
-          title: "Automando com Java e Selenium VS Ruby e Watir",
-          description: "Nesta palestra, vamos falar sobre as diferenças Java e Selenium VS Ruby e Watir",
+          title: "O que é Teste de Software?",
+          description: "Nesta palestra, vamos falar sobre princípios, processos e gerenciamento de Teste de Software",
           time: "19h15"
         }
      },
-     {
-        name: "Rafael Lima",
-        photo: "themes/yellow-swan/img/rafael.JPG",
-        bio: "Rafael é Bacharel em Ciências da Computação, trabalha na área de TI desde 2003: programou em Delphi e PHP e nos últimos 5 anos tem focado em automação de testes. Atualmente é consultor em Qualidade de Software na ThoughtWorks.",
-        company: "ThoughtWorks",
-        link: {
-          href: "rafalima07@gmail.com",
-          text: "rafalima07@gmail.com"
-        },
-        presentation: {
-          title: "Automando com Java e Selenium VS Ruby e Watir",
-          description: "Nesta palestra, vamos falar sobre as diferenças Java e Selenium VS Ruby e Watir",
-          time: "19h15"
-        }
-        },
 
       {
         name: "Encerramento",
