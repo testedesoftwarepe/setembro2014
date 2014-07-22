@@ -7,5 +7,5 @@ O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/for
 <br><br>
   Caso possua interesse em abraçar a causa, seja ajudando a organizar um evento, seja trazendo novos parceiros, seja querendo falar sobre algum assunto ou simplesmente ajudar na divulgação, por favor não exite em entrar em contato.
 <br><br>
-Para adicionar o evento no seu Google Calendar <a href="<%= @callToAction.link %>">clique aqui</a>.
+<!-- Para adicionar o evento no seu Google Calendar <a href="<%= @callToAction.link %>">clique aqui</a>. -->
 </p>
