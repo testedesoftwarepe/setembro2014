@@ -16,8 +16,8 @@ module.exports = {
     },
 
     callToAction: {
-        text: "Inscrições em breve",
-        link: "https://docs.google.com/forms/d/1hsRpul583dnw2qUpXJ35swGIH4EEvQKK9dgcrwxNMS0/viewform"
+        text: "Inscrições em breve"
+        // link: "https://docs.google.com/forms/d/1hsRpul583dnw2qUpXJ35swGIH4EEvQKK9dgcrwxNMS0/viewform"
     },
 
     site: {
@@ -85,6 +85,7 @@ module.exports = {
     ],
 
     events: {
+      form: "https://docs.google.com/forms/d/1ZmixuluQYqfWF06FG6YC82LDDz53N4-EjNXJrBFXyes/viewform"
 
     },
 
