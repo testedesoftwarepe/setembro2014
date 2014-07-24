@@ -3,9 +3,9 @@
 
 O QA Night é um evento criado pelo grupo <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">Teste de Software-PE</a>, com o objetivo de compartilhar e adquirir conhecimentos e experiências.
 <br><br>
-  Os encontros ocorrem todos os meses, uma vez por mês. O local de cada evento depende da disponibilidade dos nossos parceiros, mas nosso objetivo é sempre conquistar novas empresas que compartilhem os mesmos objetivos.
+  Os encontros são mensais e o local de cada evento varia de acordo com a disponibilidade dos nossos atuais parceiros. Para estimular a participação da comunidade, manter e melhorar o evento, queremos sempre conquistar novas parcerias que compartilhem os mesmos objetivos: disseminar e adquirir conhecimentos e experiências com a comunidade de testes de software.
 <br><br>
-  Caso possua interesse em abraçar a causa, seja ajudando a organizar um evento, seja trazendo novos parceiros, seja querendo falar sobre algum assunto ou simplesmente ajudar na divulgação, por favor não exite em entrar em contato.
+  Você tem interesse em contribuir com esta comunidade? Gostaria de ajudar a organizar um evento, seja trazendo novos parceiros, querendo falar sobre algum assunto ou simplesmente ajudar na divulgação? Entre para fazer parte do grupo de voluntários no <a href="https://groups.google.com/forum/#!forum/teste-de-software-pe">google group</a>.
 <br><br>
 <!-- Para adicionar o evento no seu Google Calendar <a href="<%= @callToAction.link %>">clique aqui</a>. -->
 </p>
