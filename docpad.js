@@ -29,8 +29,8 @@ module.exports = {
 
     site: {
       theme: "yellow-swan",
-      url: "http://testedesoftwarepe.github.io/junho2014/",
-      googleanalytics: "UA-33656081-1"
+      url: "http://testedesoftwarepe.github.io/julho2014/",
+      googleanalytics: "UA-53198502-1"
     },
 
     sections: [
