@@ -13,14 +13,18 @@ module.exports = {
       address: "Av. Marquês de Olinda, 126 - 4º andar - Bairro do Recife",
       city: "Recife",
       state: "PE"
-      //Se for ter hangout, colocar o link, se não, comentar a linha
-      // ,hangout: "https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg"
     },
 
     callToAction: {
         text: "Inscrições abertas"
         //Comente esse link para que o botão aponte para o próprio site.
         ,link: "https://docs.google.com/forms/d/1hsRpul583dnw2qUpXJ35swGIH4EEvQKK9dgcrwxNMS0/viewform"
+    },
+
+    hangout:{
+      hangoutSet: false,
+      link:"https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg",
+      hangoutNotSetMessage: "não teremos hangout nesse qa night."
     },
 
     site: {

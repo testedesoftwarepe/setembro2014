@@ -10,10 +10,10 @@ O QA Night é um evento criado pelo grupo <a target="_blank" href="https://group
 <!-- Para adicionar o evento no seu Google Calendar <a href="<%= @callToAction.link %>">clique aqui</a>. -->
 
 
-<% if @conf.hangout: %>
+<% if @hangout.hangoutSet: %>
   Acesse o hangout por esse <a target="_blank" href="<%=@conf.hangout %>">link</a>.
 <% else: %>
-  <span style="font-size:30px;font-weight:bold;text-transform:uppercase">não teremos hangout nesse qa night.</span>
+  <span style="font-size:30px;font-weight:bold;text-transform:uppercase"><%= @hangout.hangoutNotSetMessage %></span>
 <% end %>
 
 
