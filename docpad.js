@@ -19,7 +19,10 @@ module.exports = {
         //Comente esse link para que o botão aponte para o próprio site.
         ,link: "https://docs.google.com/forms/d/1YB_comM_6X7x6lZVVMUncA7KJEK8kR9UufEcWA57y_Y/viewform"
     },
-
+    /* Se o hangoutSet for true, será mostrada a seguinte mensagem:
+      "Acesse o hangout por esse <link>"
+      Se o hangoutSet for false, será usada a mensagem do hangoutNotSetMessage    
+    */
     hangout:{
       hangoutSet: false,
       link:"https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg",
