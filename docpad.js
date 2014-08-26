@@ -70,7 +70,7 @@ module.exports = {
         },
         presentation: {
           title: "Por que usar o padrão Page Object?",
-          description: "Nesta palestra, vamos falar sobre princípios, processos e gerenciamento de Teste de Software",
+          description: "Nesta palestra, será mostrado os benefícios de fazer a automação dos testes usando o padrão Page Object",
           time: "19h15"
         }
         /*
