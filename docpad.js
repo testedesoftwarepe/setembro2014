@@ -24,8 +24,8 @@ module.exports = {
       Se o hangoutSet for false, será usada a mensagem do hangoutNotSetMessage    
     */
     hangout:{
-      hangoutSet: false,
-      link:"https://plus.google.com/u/1/events/cm2q6g8adljfr0j7k0sihrk3pcg",
+      hangoutSet: true,
+      link:"https://plus.google.com/u/2/events/cdn2unjap1440853obc0pgsc750",
       hangoutNotSetMessage: "link para hangout em breve."
     },
 
