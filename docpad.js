@@ -7,7 +7,7 @@ module.exports = {
     conf: {
       name: "QA Night",
       description: "Encontro do grupo Teste de Software-PE",
-      date: "Setembro de 2014",
+      date: "29 Setembro de 2014",
       venue: "ThoughtWorks",
       address: "Av. Gov. Agamenon Magalhães, 4779 - Ilha do Leite",
       city: "Recife",
