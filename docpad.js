@@ -65,11 +65,11 @@ module.exports = {
       {
         name: "Tassia Spinelli",
         photo: "themes/yellow-swan/img/tassia.jpg",
-        bio: "",
+        bio: "Tássia é Experience Designer na Thoughtworks Recife. Ela ama entender as necessidades dos usuários e como elas se conectam com serviços e negócios. Fazer pesquisa com usuários, entender seus pontos de dor e a partir disso construir experiências significativas são coisas que fazem seu dia divertido e especial.",
         company: "ThoughtWorks",
         link: {
-          href: "",
-          text: ""
+          href: "tassiaspinelli@gmail.com",
+          text: "email"
       },
 
       presentation: {
